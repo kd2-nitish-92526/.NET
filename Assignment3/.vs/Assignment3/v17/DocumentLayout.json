@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC\\CDAC AUG\u002725\\Personal Git Data\\PRACTICE\\.NET\\Assignment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86BFB63D-40D0-4F3D-8F2E-7A447F27C6A6}|HRMS\\HRMS.csproj|d:\\cdac\\cdac aug\u002725\\personal git data\\practice\\.net\\assignment3\\hrms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86BFB63D-40D0-4F3D-8F2E-7A447F27C6A6}|HRMS\\HRMS.csproj|solutionrelative:hrms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB990F8-3AFA-47E8-B27D-A066DBE1B172}|EmployeeLib\\EmployeeLib.csproj|d:\\cdac\\cdac aug\u002725\\personal git data\\practice\\.net\\assignment3\\employeelib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB990F8-3AFA-47E8-B27D-A066DBE1B172}|EmployeeLib\\EmployeeLib.csproj|solutionrelative:employeelib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CDAC\\CDAC AUG\u002725\\Personal Git Data\\PRACTICE\\.NET\\Assignment3\\HRMS\\Program.cs",
+              "RelativeDocumentMoniker": "HRMS\\Program.cs",
+              "ToolTip": "D:\\CDAC\\CDAC AUG\u002725\\Personal Git Data\\PRACTICE\\.NET\\Assignment3\\HRMS\\Program.cs",
+              "RelativeToolTip": "HRMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:24:03.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CDAC\\CDAC AUG\u002725\\Personal Git Data\\PRACTICE\\.NET\\Assignment3\\EmployeeLib\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeLib\\Program.cs",
+              "ToolTip": "D:\\CDAC\\CDAC AUG\u002725\\Personal Git Data\\PRACTICE\\.NET\\Assignment3\\EmployeeLib\\Program.cs",
+              "RelativeToolTip": "EmployeeLib\\Program.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAmwGsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:23:17.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

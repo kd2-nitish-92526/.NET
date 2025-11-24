@@ -1,0 +1,4 @@
+D:\CDAC\CDAC AUG'25\Personal Git Data\PRACTICE\.NET\Assignment3\HRMS\obj\Debug\net8.0\HRMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\CDAC AUG'25\Personal Git Data\PRACTICE\.NET\Assignment3\HRMS\obj\Debug\net8.0\HRMS.AssemblyInfoInputs.cache
+D:\CDAC\CDAC AUG'25\Personal Git Data\PRACTICE\.NET\Assignment3\HRMS\obj\Debug\net8.0\HRMS.AssemblyInfo.cs
+D:\CDAC\CDAC AUG'25\Personal Git Data\PRACTICE\.NET\Assignment3\HRMS\obj\Debug\net8.0\HRMS.csproj.CoreCompileInputs.cache

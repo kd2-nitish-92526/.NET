@@ -1,0 +1,4 @@
+D:\CDAC\CDAC AUG'25\Personal Git Data\PRACTICE\.NET\Assignment3\EmployeeLib\obj\Debug\net8.0\EmployeeLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\CDAC AUG'25\Personal Git Data\PRACTICE\.NET\Assignment3\EmployeeLib\obj\Debug\net8.0\EmployeeLib.AssemblyInfoInputs.cache
+D:\CDAC\CDAC AUG'25\Personal Git Data\PRACTICE\.NET\Assignment3\EmployeeLib\obj\Debug\net8.0\EmployeeLib.AssemblyInfo.cs
+D:\CDAC\CDAC AUG'25\Personal Git Data\PRACTICE\.NET\Assignment3\EmployeeLib\obj\Debug\net8.0\EmployeeLib.csproj.CoreCompileInputs.cache
